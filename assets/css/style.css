@@ -1,0 +1,5 @@
+.container{text-align:center;}
+
+table.dataTable tbody tr.pending {
+    background-color: #f00;
+}
